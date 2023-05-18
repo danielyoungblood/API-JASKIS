@@ -1,0 +1,74 @@
+Current Mongosh Log ID:	6465717c56d75b58654bc1a4
+Connecting to:		mongodb://localhost:27017/jaskis?directConnection=true&serverSelectionTimeoutMS=2000&appName=mongosh+1.9.0
+Using MongoDB:		6.0.6
+Using Mongosh:		1.9.0
+
+For mongosh info see: [1mhttps://docs.mongodb.com/mongodb-shell/[0m
+
+------
+   The server generated these startup warnings when booting
+   2023-05-17T09:19:10.675-07:00: Access control is not enabled for the database. Read and write access to data and configuration is unrestricted
+------
+
+[
+  {
+    _id: ObjectId("646404365b7365f46ad15956"),
+    name: 'Lokinkajou',
+    species: 'Kinkajou',
+    location: 'Tropical rainforest',
+    wantedFor: 'Partying too late at night',
+    client: 'White tiger',
+    reward: 1000,
+    captured: false
+  },
+  {
+    _id: ObjectId("646404365b7365f46ad15957"),
+    name: 'Nebullama',
+    species: 'Llama',
+    location: 'Grasslands',
+    wantedFor: 'Drinking all the water from the ocean',
+    client: 'Songbird',
+    reward: 2500,
+    captured: false
+  },
+  {
+    _id: ObjectId("646404365b7365f46ad15958"),
+    name: 'Polarwind',
+    species: 'Polar Bear',
+    location: 'Arctic',
+    wantedFor: 'Not hibernating',
+    client: 'Sabertooth',
+    reward: 4000,
+    captured: false
+  },
+  {
+    _id: ObjectId("646404365b7365f46ad15959"),
+    name: 'Wrecking Crows',
+    species: 'Crow',
+    location: 'Grasslands',
+    wantedFor: 'Cawing too loudly',
+    client: 'Red wolf',
+    reward: 40000,
+    captured: false
+  },
+  {
+    _id: ObjectId("646404365b7365f46ad1595a"),
+    name: 'Grandhog',
+    species: 'Groundhog',
+    location: 'Woodlands',
+    wantedFor: 'Not coming out of the hole on time and prolonging winter',
+    client: 'Songbird',
+    reward: 50000,
+    captured: false
+  },
+  {
+    _id: ObjectId("646404365b7365f46ad1595b"),
+    name: 'Grim Panda',
+    species: 'Giant Panda',
+    location: 'Temperate forest',
+    wantedFor: 'Eating all the bamboo',
+    client: 'Red wolf',
+    reward: 5000,
+    captured: false
+  }
+]
